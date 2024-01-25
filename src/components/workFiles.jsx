@@ -52,6 +52,12 @@ export const workFiles = () => {
       demo: "https://yureshmajhi.github.io/odin-project-library",
       code: "https://github.com/YureshMajhi/odin-project-library",
     },
+    {
+      title: "Library",
+      img: library,
+      demo: "https://yureshmajhi.github.io/odin-project-library",
+      code: "https://github.com/YureshMajhi/odin-project-library",
+    },
   ];
 
   const skillArray = [
