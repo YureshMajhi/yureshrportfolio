@@ -22,11 +22,11 @@ const About = () => {
         </div>
         <div>
           <p>
-            I'm passionate about creating awesome websites that make a real
-            difference. I specialize in front-end development, helping everyone
-            from individuals to large corporations. Just think about having a
-            front-end pro right at your disposal. What could you achieve with
-            that kind of expertise?
+            I am passionate about building websites that make a difference. As a
+            frontend specialist, I help individuals and big businesses alike
+            create a great user experience. With skills like React and frontend
+            development, I am able to transform your ideas into reality and take
+            your projects to the next level.
           </p>
         </div>
       </div>

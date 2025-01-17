@@ -12,13 +12,12 @@ const Home = () => {
           Yuresh Majhi
         </h1>
         <h2 className="text-[#c5c6c7] text-4xl sm:text-7xl font-bold">
-          I'm a Full Stack Developer
+          I'm a Frontend Developer
         </h2>
         <p className="text-white max-w-[700px] my-4">
-          I'm a MERN full-stack developer. That means I work with React,
-          Node.js, Express.js, and MongoDB. I also use Tailwind CSS to style
-          things. I'm into HTML5, JavaScript, and CSS, and I've built a bunch of
-          cool personal projects with these tools!
+          I'm a React Developer. I work with React and use Tailwind CSS for
+          styling. I'm into HTML5, JavaScript, and CSS, and I've built some cool
+          personal projects with these tools!
         </p>
         <div>
           <Link to="work" smooth={true} duration={500}>
