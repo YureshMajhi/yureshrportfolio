@@ -1,5 +1,6 @@
 // work images
 import eapp from "../assets/eapp1.png";
+import mapp from "../assets/mapp.png";
 
 // skills images
 import javascript from "../assets/javascript.png";
@@ -16,6 +17,12 @@ export const workFiles = () => {
       img: eapp,
       demo: "https://yurush-store.netlify.app/",
       code: "https://github.com/YureshMajhi/E-commerce-",
+    },
+    {
+      title: "Movie Site",
+      img: mapp,
+      demo: "https://movie-streaming-platform.vercel.app/",
+      code: "https://github.com/YureshMajhi/Movie-Streaming-Platform",
     },
   ];
 
